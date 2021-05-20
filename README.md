@@ -4,8 +4,11 @@ Um Chatbot que ajuda a encontrar os horários dos filmes dos cinemas de Indaiatu
 Quais foram as tecnologias usadas nesse projeto?
 
 ➡️ Python 🐍
+
 ➡️ Telegram API
+
 ➡️ Google Cloud ☁️
+
 ➡️ Heroku ☁️
 
 
